@@ -4,6 +4,7 @@
 [Bb]uild/
 [Bb]uilds/
 Assets/AssetStoreTools*
+Assets/Plugins/Editor/JetBrains.RiderFlow*
 
 # Visual Studio cache directory
 .vs/
